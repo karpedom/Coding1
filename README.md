@@ -1,15 +1,16 @@
 <h1 align="center">Olá 👋, meu nome é Domingos Santiago</h1>
-<h3 align="center">Estou aprendendo e criei este readme para testar meus conhecimentos.</h3>
+<h3 align="left">Estou aprendendo e criei este README para testar meus conhecimentos e realizar um resumo da 1ª aula de Coding 1 com a professora Tereza Oliveira.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karpedom&label=Profile%20views&color=0e75b6&style=flat" alt="karpedom" /> </p>
+## 🚀 Contribuições da aula
+Aqui vai um resumo do conteúdo da aula que abordou temas sobre Github, funcionalidades presentes no Github, repositórios, arquivo README, markdown e dicas de sites para aprimorar markdown. Como iniciei na turma em 17/09, trago aqui um resumo do aprendizado que tive com a leitura dos materiais disponíveis.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karpedom" alt="karpedom" /></a> </p>
+- Possibilidade de utilizaçao de um gerador de README neste [link](https://rahuldkjain.github.io/gh-profile-readme-generator) que me auxiliou com criação de parte desta estrutura deste arquivo;
+- O material Git, Github e VSCODE trouxe informações importantes sobre a plataforma GitHub;
+- Compreendi algumas informações importantes como os conceitos de pastas e repositórios, branch, pull request e merge;
+- Como já tinha um pouco de conhecimento da plataforma GitHub, os materiais me ajudaram a entender alguns conceitos, visto que meu contato com a plataforma foram de forma mais prática para consultar outros repositórios;
+- Utilizei alguns comando do Git para acessar as pastas usando o VS Code que tenho algum conhecimento, mas não sabia da possibilidade de conectar com o repositório do Git.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karpedom&show_icons=true&locale=en&layout=compact" alt="karpedom" /></p>
+
+Fim!
